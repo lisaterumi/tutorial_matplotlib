@@ -1,5 +1,7 @@
 # Visualização de dados com python usando Matplotlib
 
+<a href="https://www.buymeacoffee.com/lisaterumi"><img src="https://github.com/lisaterumi/lisaterumi/blob/main/bymeacoffe_link.png" alt="By me a coffe"/></a>
+
 Neste repositório vamos ver tutoriais para visualização de dados em python com a biblioteca **matplotlib**. Os tutoriais foram adaptados [deste artigo](https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70), e os datasets encontram-se [aqui](https://github.com/BadreeshShetty/Data-Visualization-using-Matplotlib/tree/master/datasets).
 
 A visualização de dados é uma parte importante das atividades de negócios, pois as organizações hoje em dia coletam uma grande quantidade de dados. Todos esses dados coletados contêm *insights* importantes para empresas e as visualizações tornam esses *insights* fáceis de interpretar.
